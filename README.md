@@ -2,6 +2,8 @@
 
 > 音乐播放器
 
+线上预览地址：https://luweicn.github.io/vue-music/dist/
+
 ## Build Setup
 
 ``` bash
